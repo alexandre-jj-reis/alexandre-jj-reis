@@ -1,10 +1,10 @@
-<img align="right" width="400" height="400" src="https://i.imgur.com/ynOLSEM.gif">
+<img align="right" width="400" height="400" src="https://i0.wp.com/www.linuxlinks.com/wp-content/uploads/2018/06/200w-ascii.gif?resize=750%2C857&ssl=1">
  
 # Welcome!
  
 ## I'm Alexandre
  
-… Em Breve!
+Hello my name is Alexandre and I am currently Tech Lead Java / kotlin in a big company here in Brazil, I am passionate about technology, I am a little nerd, I like anime, manga, arduino, HQ and other things, here you will find some of my research and development. thanks!!
  
  
 ## About me 
